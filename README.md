@@ -35,6 +35,6 @@ git clone https://github.com/amineTNYT/morse-code.git
 cd morse-code-translator
 
 ## Optional Sound Enhancement
-For **best sound experience** on all platforms:
+For best sound experience on all platforms:
 ```bash
 pip install simpleaudio
