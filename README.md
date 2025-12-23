@@ -9,7 +9,6 @@ A feature-rich Python Morse code translator with text-to-sound conversion, inter
 
 ![Demo GIF](docs/demo.gif) <!-- Add a demo gif later -->
 
-## ✨ Features
 
 ### 🎯 Core Features
 - **Text ↔ Morse Translation** - Bidirectional conversion with full punctuation support
@@ -35,5 +34,7 @@ A feature-rich Python Morse code translator with text-to-sound conversion, inter
 git clone https://github.com/amineTNYT/morse-code.git
 cd morse-code-translator
 
-# Install dependencies (optional for sound)
-pip install -r requirements.txt
+## Optional Sound Enhancement
+For **best sound experience** on all platforms:
+```bash
+pip install simpleaudio
