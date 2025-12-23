@@ -32,7 +32,7 @@ A feature-rich Python Morse code translator with text-to-sound conversion, inter
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/morse-code-translator.git
+git clone https://github.com/amineTNYT/morse-code.git
 cd morse-code-translator
 
 # Install dependencies (optional for sound)
