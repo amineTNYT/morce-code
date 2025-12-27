@@ -1,4 +1,12 @@
-
+# Enhanced Interactive Morse Code Translator
+# Features:
+# - Text ↔ Morse Code translation
+# - Play Morse code as audio beeps (using system beep or pygame)
+# - Flash Morse code on screen (visual dots/dashes)
+# - Save translations to file
+# - Load previous text/Morse from file
+# - Clean, colorful, user-friendly menu with input validation
+# - Supports punctuation and prosigns
 
 import os
 import time
