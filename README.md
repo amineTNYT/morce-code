@@ -7,7 +7,6 @@
 
 A feature-rich Python Morse code translator with text-to-sound conversion, interactive learning mode, and comprehensive translation capabilities.
 
-![Demo GIF](docs/demo.gif) <!-- Add a demo gif later -->
 
 
 ### 🎯 Core Features
